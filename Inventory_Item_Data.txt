@@ -1,0 +1,33 @@
+Printer
+    FCIT01
+        Machinery
+                10
+                  Ali,Moiz,Sarim
+
+
+Marker
+    FCIT02
+        Stationery
+                50
+                  Nawaz,Zia,Hanan,Daniyal,Zaman,Mubasil
+
+
+Projector
+        FCIT03
+            Machinery
+                    10
+                    Faizan,Abubakar,Zain
+
+
+CourseBooks
+        FCIT04
+            Stationery
+                    100
+                       Qateef,Ahmed,Hassan,Haider,Abubakar,Faizan,Moiz
+
+
+Duster
+        FCIT05
+            Stationery
+                    50
+                      Moiz,Hanan,Daniyal,Faizan,Abubakar,Zain
